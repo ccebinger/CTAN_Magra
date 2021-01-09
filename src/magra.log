@@ -1,0 +1,118 @@
+
+
+############################################################################
+
+
+[2021-01-09 12:17:06]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=Archivo -encoding=OT1,T1,TS1,LY1 Magra-Bold.otf Magra-Regular.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    Magra-Bold.otf
+        Name:       Magra-Bold
+        Family:     Magra
+        Subfamily:  
+        Weight:     bold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   
+
+    Magra-Regular.otf
+        Name:       Magra
+        Family:     Magra
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  
+    l   =>  
+    sl  =>  
+    m   =>  regular
+    sb  =>  
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    Magra-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    Magra-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       
+            OT1     TLF     n       
+            T1      TLF     n       
+            TS1     TLF     n       
